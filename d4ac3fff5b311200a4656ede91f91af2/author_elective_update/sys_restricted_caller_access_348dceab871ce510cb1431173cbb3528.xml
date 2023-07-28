@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="DELETE">
+        <description/>
+        <operation>read</operation>
+        <rca_type>generated</rca_type>
+        <source>3a25abd853310110fedfddeeff7b12dd</source>
+        <source_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</source_scope>
+        <source_table>sp_widget</source_table>
+        <source_type>6</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-16 05:38:05</sys_created_on>
+        <sys_id>348dceab871ce510cb1431173cbb3528</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>4249e63a28d54d61bb6fbf61fd86cccb</sys_name>
+        <sys_package display_value="Human Resources: Core" source="sn_hr_core">d4ac3fff5b311200a4656ede91f91af2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_348dceab871ce510cb1431173cbb3528</sys_update_name>
+        <sys_updated_by>nidhin.viswanathan@wipro.com</sys_updated_by>
+        <sys_updated_on>2023-01-24 09:35:47</sys_updated_on>
+        <target>d4ac3fff5b311200a4656ede91f91af2</target>
+        <target_scope display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</target_scope>
+        <target_table>sys_scope</target_table>
+        <target_type>3</target_type>
+    </sys_restricted_caller_access>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</application>
+        <file_path/>
+        <instance_id>33ab51e6db454510e62f3feb68961923</instance_id>
+        <instance_name>wiprocoedev</instance_name>
+        <name>sys_restricted_caller_access_348dceab871ce510cb1431173cbb3528</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>generated</rca_type><source>3a25abd853310110fedfddeeff7b12dd</source><source_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</source_scope><source_table>sp_widget</source_table><source_type>6</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-01-16 05:38:05</sys_created_on><sys_id>348dceab871ce510cb1431173cbb3528</sys_id><sys_mod_count>1</sys_mod_count><sys_name>4249e63a28d54d61bb6fbf61fd86cccb</sys_name><sys_package display_value="Human Resources: Core" source="sn_hr_core">d4ac3fff5b311200a4656ede91f91af2</sys_package><sys_policy/><sys_scope display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</sys_scope><sys_update_name>sys_restricted_caller_access_348dceab871ce510cb1431173cbb3528</sys_update_name><sys_updated_by>nidhin.viswanathan@wipro.com</sys_updated_by><sys_updated_on>2023-01-24 09:35:47</sys_updated_on><target>d4ac3fff5b311200a4656ede91f91af2</target><target_scope display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</target_scope><target_table>sys_scope</target_table><target_type>3</target_type></sys_restricted_caller_access></record_update>]]></payload>
+        <payload_hash>1615010543</payload_hash>
+        <record_name>4249e63a28d54d61bb6fbf61fd86cccb</record_name>
+        <reverted_from/>
+        <source>4890505a87e06910b738ed373cbb35c3</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>nidhin.viswanathan@wipro.com</sys_created_by>
+        <sys_created_on>2023-01-24 09:35:47</sys_created_on>
+        <sys_id>3ca0145a87e06910b738ed373cbb35eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185e32232e10000001</sys_recorded_at>
+        <sys_updated_by>nidhin.viswanathan@wipro.com</sys_updated_by>
+        <sys_updated_on>2023-01-24 09:35:47</sys_updated_on>
+        <type>Restricted Caller Access Privilege</type>
+        <update_guid>34a0145aa4e069109cbe282acc2a09eb</update_guid>
+        <update_guid_history>34a0145aa4e069109cbe282acc2a09eb:1615010543,f08dceabb51ce51096d7e1dc416bfc29:-495211155</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-17 09:50:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_restricted_caller_access">sys_restricted_caller_access</sys_db_object>
+        <sys_id>ab5ae3b24db0490cb95212bc026f8a69</sys_id>
+        <sys_metadata>348dceab871ce510cb1431173cbb3528</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4249e63a28d54d61bb6fbf61fd86cccb</sys_name>
+        <sys_package display_value="Human Resources: Core" source="sn_hr_core">d4ac3fff5b311200a4656ede91f91af2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</sys_scope>
+        <sys_scope_delete display_value="">6508b4d4a71c4123bd18496a279643b9</sys_scope_delete>
+        <sys_update_name>sys_restricted_caller_access_348dceab871ce510cb1431173cbb3528</sys_update_name>
+        <sys_update_version display_value="sys_restricted_caller_access_348dceab871ce510cb1431173cbb3528">3ca0145a87e06910b738ed373cbb35eb</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-17 09:50:27</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</claim_owner_scope>
+        <claim_timestamp>1899ca4d2c60000001</claim_timestamp>
+        <metadata_update_name>sys_restricted_caller_access_348dceab871ce510cb1431173cbb3528</metadata_update_name>
+        <previous_claim_app_version>19.0.0</previous_claim_app_version>
+        <previous_claim_name>Human Resources: Core</previous_claim_name>
+        <previous_claim_scope>d4ac3fff5b311200a4656ede91f91af2</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-28 13:16:34</sys_created_on>
+        <sys_id>624139b147107d141faeb69c346d437f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-28 13:16:34</sys_updated_on>
+    </sys_claim>
+</record_update>

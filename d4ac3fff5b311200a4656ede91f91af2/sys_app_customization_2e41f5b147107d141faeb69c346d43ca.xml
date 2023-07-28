@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_customization">
+    <sys_app_customization action="INSERT_OR_UPDATE">
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-28 13:16:34</sys_created_on>
+        <sys_id>2e41f5b147107d141faeb69c346d43ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-28 13:16:34</sys_updated_on>
+        <vendor_app display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</vendor_app>
+        <vendor_app_version>19.0.0</vendor_app_version>
+        <version>1.0.0</version>
+        <war_version>glide-utah-12-21-2022__patch4-hotfix2-06-23-2023_06-23-2023_2224.zip</war_version>
+    </sys_app_customization>
+</record_update>
