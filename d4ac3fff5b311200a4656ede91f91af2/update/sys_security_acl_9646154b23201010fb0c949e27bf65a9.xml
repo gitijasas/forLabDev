@@ -24,16 +24,16 @@
     </sys_security_acl>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</claim_owner_scope>
-        <claim_timestamp>1899ca4d4d80000001</claim_timestamp>
+        <claim_timestamp>00000000</claim_timestamp>
         <metadata_update_name>sys_security_acl_9646154b23201010fb0c949e27bf65a9</metadata_update_name>
         <previous_claim_app_version>19.0.0</previous_claim_app_version>
         <previous_claim_name>Human Resources: Core</previous_claim_name>
         <previous_claim_scope>d4ac3fff5b311200a4656ede91f91af2</previous_claim_scope>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-07-28 13:16:35</sys_created_on>
-        <sys_id>f24139b147107d141faeb69c346d43e0</sys_id>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-12 03:57:28</sys_created_on>
+        <sys_id>8f21852687203110cb1431173cbb3595</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-28 13:16:35</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-12 03:57:28</sys_updated_on>
     </sys_claim>
 </record_update>
